@@ -8,7 +8,7 @@
 
 <ul>
     <li><strong>Criador:</strong> Ronaldo Bento</li>
-    <li><strong>Gênero:</strong> Visual Novel</li>
+    <li><strong>Gênero:</strong> Visual Novel/Terror</li>
     <li><strong>Engine:</strong> RPG Maker VX Ace</li>
     <li><strong>Design e Characters & Scenario: </strong>Horang </li>
     <li><strong>Roteiro original:</strong> Horang </li>
