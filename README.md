@@ -4,6 +4,15 @@
 
 <br><img src="./img/logo-bento-projeto.png" alt="logo bento-projeto no formato png"><br>
 
+
+<p> São jogos focados no enredo, nos quais o jogador acompanha uma história por meio de textos, músicas e imagens. Em momentos chaves desses jogos o jogador deve decidir que caminho o protagonista deve seguir e, desta forma, o jogo avança. O desenvolvimento da trama destes jogos costuma depender das escolhas que os jogadores fazem durante o jogos. São como filmes ou livros interativos; daí o nome visual novel. 
+O gênero denominado Visual novel é mutável e popular entre os orientais (principalmente os japoneses, coreanos e chineses) e vem adquirindo espaço no mercado ocidental desde 2010, por conta de seus roteiros complexos e diversificados. Além disso, vários jogos possuem dublagem, ou seja, as personagens adquirem muito mais personalidade. O desenvolvimento do gênero no ocidente encontra dificuldades como os altos custos na tradução do roteiro e o barramento de mercado devido à temática inserida nos jogos, no entanto há esforço dos fãs para que empresas invistam de modo global, descentralizando as vendas do Japão. Podemos também contar com os tímidos, mas ótimos trabalhos nacionais. Escrevi uma matéria completa sobre O visual novel e suas possibilidades de incentivo à leitura na revista Make the RPG nº 18.</p>
+
+<a href="https://condadobraveheart.com/threads/make-the-rpg-18-edicao.4363/" target="_blank" rel="external" title="Clique aqui para entrar no site da revista Make The RPG"><strong>Clique aqui para entrar no site da revista Make The RPG nº 18</strong></a><br>
+ 
+<br><img src="./img/logo.jpg" alt="logo bento-projeto no formato png"><br>
+
+
 ## Ficha Técnica
 
 <ul>
