@@ -31,6 +31,15 @@ O gênero denominado Visual novel é mutável e popular entre os orientais (prin
     <li><strong>Duração do jogo:</strong> aproximadamente 10 minutos</li>
 </ul>
 
+## Mas o que é webtoon?
+
+<br><p>Um webtoon nada mais é do que uma história em quadrinhos originada na Coreia do Sul. Pelo menos, em sua raiz.
+Mas hoje “webtoon” já é um termo mundial. Essas histórias vem ganhando notoriedade nos últimos anos devido à chamada Onda Coreana (ou Hallyu).</p>
+
+<br><img src="./img/Captura de tela.png" alt="logo capturadetela no formato png"><br>
+
+### Webtoon: Bongcheon-Dong-ghost by Horang
+
 <p>O RPG Maker permite que os usuários criem seus próprios jogos de RPG e com algumas mudanças no sistema pode criar até outros tipos de jogos. Utiliza a linguagem de Programacão:
 RGSS (Ruby Game Scripting System) uses the object-oriented scripting language Ruby to develop 2D games for the Windows® platform.</p>
 
