@@ -31,6 +31,10 @@ O gênero denominado Visual novel é mutável e popular entre os orientais (prin
     <li><strong>Duração do jogo:</strong> aproximadamente 10 minutos</li>
 </ul>
 
+***
+
+<a href="https://condadobraveheart.com/threads/o-espectro-bongcheon-dong-2.7648/" target="_blank" rel="external" title="Clique aqui para entrar no site do projeto Visual Novel"><strong>Clique aqui para entrar no site do projeto Visual Novel </strong></a><br>
+
 ## Mas o que é webtoon?
 
 <br><p>Um webtoon nada mais é do que uma história em quadrinhos originada na Coreia do Sul. Pelo menos, em sua raiz.
