@@ -1,7 +1,9 @@
  Título Original: SekaiVN - O Espectro de Bongcheon-Dong [BR V.Original]
-Título Adaptado - O Espectro de Bongcheon-Dong 2
+ Título Adaptado - O Espectro de Bongcheon-Dong 2
 =============================================================================================================================
- Autor: Ronaldo Bento
+ Autor: Ronaldo Rodrigues Bento
+ Roteiro Original: Bongcheon-Dong Ghost by Horang
+ Roteiro Adaptado: O Espectro de Bongcheon-Dong 2 by Ronaldo Rodrigues Bento - Bento -Projeto-
  Gênero: Visual Novel Terror
  Engine: RPG Maker VX Ace
  Faixa Etária: Maiores de 18 anos
