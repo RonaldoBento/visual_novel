@@ -10,7 +10,7 @@ O gênero denominado Visual novel é mutável e popular entre os orientais (prin
 
 <a href="https://condadobraveheart.com/threads/make-the-rpg-18-edicao.4363/" target="_blank" rel="external" title="Clique aqui para entrar no site da revista Make The RPG"><strong>Clique aqui para entrar no site da revista Make The RPG nº 18</strong></a><br>
  
-<br><img src="./img/logo.jpg" alt="logo bento-projeto no formato png"><br>
+<br><img src="./img/banner-forum-bento.gif" alt="logo bento-projeto no formato gif"><br>
 
 
 ## Ficha Técnica
@@ -40,9 +40,14 @@ O gênero denominado Visual novel é mutável e popular entre os orientais (prin
 <br><p>Um webtoon nada mais é do que uma história em quadrinhos originada na Coreia do Sul. Pelo menos, em sua raiz.
 Mas hoje “webtoon” já é um termo mundial. Essas histórias vem ganhando notoriedade nos últimos anos devido à chamada Onda Coreana (ou Hallyu).</p>
 
+***
+## Screenshoot do Visual Novel
+
 <br><img src="./img/Captura de tela.png" alt="logo capturadetela no formato png"><br>
 
-### Webtoon: Bongcheon-Dong-ghost by Horang
+<br><img src="./img/Captura1.png" alt="logo capturadetela no formato png"><br>
+
+<br><img src="./img/Captura2.png" alt="logo capturadetela no formato png"><br>
 
 <p>O RPG Maker permite que os usuários criem seus próprios jogos de RPG e com algumas mudanças no sistema pode criar até outros tipos de jogos. Utiliza a linguagem de Programacão:
 RGSS (Ruby Game Scripting System) uses the object-oriented scripting language Ruby to develop 2D games for the Windows® platform.</p>
