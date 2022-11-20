@@ -45,7 +45,9 @@ Mas hoje “webtoon” já é um termo mundial. Essas histórias vem ganhando no
 
 <br><img src="./img/Captura de tela.png" alt="logo capturadetela no formato png"><br>
 
+
 <br><img src="./img/Captura1.png" alt="logo capturadetela no formato png"><br>
+
 
 <br><img src="./img/Captura2.png" alt="logo capturadetela no formato png"><br>
 
