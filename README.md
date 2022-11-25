@@ -16,8 +16,8 @@ O gênero denominado Visual novel é mutável e popular entre os orientais (prin
 ## Ficha Técnica
 
 <ul>
-    <li><strong>Criador:</strong> Ronaldo Bento</li>
-    <li><strong>Gênero:</strong> Visual Novel/Terror</li>
+    <li><strong>Criador:</strong> Ronaldo Rodrigues Bento</li>
+    <li><strong>Gênero:</strong> Visual Novel, Terror, Horror, Psicológico, Sobrenatural, Suspense, Policial e Puzzle</li>
     <li><strong>Engine:</strong> RPG Maker VX Ace</li>
     <li><strong>Design e Characters & Scenario: </strong>Horang </li>
     <li><strong>Roteiro original:</strong> Horang </li>
@@ -26,9 +26,10 @@ O gênero denominado Visual novel é mutável e popular entre os orientais (prin
     <li><strong>Faixa Etária:</strong> Maiores de 18 anos</li>
     <li><storng>Precisa de RTP?</strong> Não</li>
     <li><strong>Início do projeto:</strong> 18/10/2022</li>
-    <li><strong>Lançamento do projeto:</strong> 23/10/2022</li>
-    <li><strong>Tamanho:</strong> 25MB</li>
-    <li><strong>Duração do jogo:</strong> aproximadamente 10 minutos</li>
+    <li><strong>Lançamento do projeto:</strong> 25/11/2022</li>
+    <li><strong>Tamanho:</strong> 84MB</li>
+    <li><strong>DGD - Documento de Game_Design:</strong>Anexo</li>
+    <li><strong>Duração do jogo:</strong> aproximadamente duas horas</li>
 </ul>
 
 ***
